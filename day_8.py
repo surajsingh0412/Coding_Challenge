@@ -1,5 +1,5 @@
 #You are given a list of integers. Write a python function that returns a new list where each element is
-#  the square of the corresponding element in the input list. Output: [1, 4, 9, 16], n=[-1,-2,3,4]
+#  the square of the corresponding element in the input list. Output: [1, 4, 9, 16], input n=[-1,-2,3,4]
 
 #  1st Method
 a=[]
